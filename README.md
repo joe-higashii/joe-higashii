@@ -31,3 +31,24 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joe-higashii&show_icons=true&locale=en" alt="joe-higashii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joe-higashii&" alt="joe-higashii" /></p>
+
+# Ekans tá solto ![favicon-16x16](https://user-images.githubusercontent.com/129689531/232346328-f1a65414-4c4c-4fc9-a6e2-ca277126f58e.png) 🐍
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
