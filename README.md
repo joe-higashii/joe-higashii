@@ -13,7 +13,7 @@
 
 - 📫 Como me contactar **joedsonfera@hotmail.com**
 
-- ⚡ Fato engraçado **Sou potterhead e tenho um gato chaado Bichento🤭**
+- ⚡ Fato engraçado **Sou potterhead e tenho um gato chamado Bichento🤭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
