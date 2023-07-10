@@ -7,7 +7,7 @@
 
 - 🔭 Estou trabalhando atualmente em **Projeto Pacman**
 
-- 🌱 Estou aprendendo atualmente **JavaScript, HTML, CSS, DOM**
+- 🌱 Estou aprendendo atualmente **JavaScript, HTML, CSS, REACT**
 
 - 💬 Me pergunte sobre **Harry Potter**
 
