@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-higashii&label=Profile%20views&color=0e75b6&style=flat" alt="joe-higashii" /> </p>
 
-- 🔭 Estou trabalhando atualmente em **Projeto Pacman**
+- 🔭 Estou trabalhando atualmente em **Projeto Space invaders**
 
 - 🌱 Estou aprendendo atualmente **JavaScript, HTML, CSS, REACT**
 
