@@ -34,8 +34,6 @@
 
 # Ekans tá solto ![favicon-16x16](https://user-images.githubusercontent.com/129689531/232346328-f1a65414-4c4c-4fc9-a6e2-ca277126f58e.png) 🐍
 
-![Snake animation](https://github.com/joe-higashii/joe-higashii/blob/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
