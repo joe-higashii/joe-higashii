@@ -52,3 +52,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+![Snake animation](https://github.com/MichaelVieira021/MichaelVieira021/blob/output/github-contribution-grid-snake.svg)
