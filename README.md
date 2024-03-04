@@ -7,7 +7,7 @@
 
 - 🔭 Estou trabalhando atualmente em **Projeto Dev.ME💻**
 
-- 🌱 Estou aprendendo atualmente **JavaScript, HTML, CSS, REACT**
+- 🌱 Estou aprendendo atualmente **Springboot, PostgreSQL, React Native, REACT**
 
 - 💬 Me pergunte sobre **Harry Potter**
 
