@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joe-higashii&label=Profile%20views&color=0e75b6&style=flat" alt="joe-higashii" /> </p>
 
-- 🔭 Estou trabalhando atualmente em **Projeto rest-project💻**
+- 🔭 Estou trabalhando atualmente em **Projeto unified-crm-email-api💻**
 
 - 🌱 Estou aprendendo atualmente **Springboot, PostgreSQL, React Native, REACT**
 
